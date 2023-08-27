@@ -1,0 +1,127 @@
+{
+  "QMainWindow": [
+    {
+      "icon": ":/icons/title.png"
+    }
+  ],
+
+  "QCard": [
+    {
+      "cards": [
+        "card1",
+        "card2",
+        "card3",
+        "card4",
+        "loadWidget"
+      ],
+      "shadow": [
+        {
+          "color": "#000",
+          "blurRadius": 20,
+          "xOffset": 0,
+          "yOffset": 0
+        }
+      ]
+    },
+  {
+      "cards": [
+        "widget_4",
+        "widget_5",
+        "frame_15"
+      ],
+      "shadow": [
+        {
+          "color": "#000",
+          "blurRadius": 20,
+          "xOffset": 0,
+          "yOffset": 0
+        }
+      ]
+
+    }
+    ],
+
+	"QCustomSlideMenu": [
+      {
+        "name": "profCont",
+        "relativeTo": "stackedWidget",
+        "position": "top-right",
+        "shadow": [{
+          "color": "#000",
+          "blurRadius": 20,
+          "xOffset": 0,
+          "yOffset": 0
+        }],
+        "defaultSize": [
+          {
+            "width": 0,
+            "height": 0
+          }
+        ],
+        "collapsedSize": [
+          {
+            "width": 0,
+            "height": 0
+          }
+        ],
+        "expandedSize": [
+          {
+            "width": 130,
+            "height": 300
+          }
+        ],
+        "toggleButton": [
+          {
+            "buttonName": "accountBtn"
+          }
+        ],
+        "menuTransitionAnimation": [
+          {
+            "animationDuration": 200,
+            "animationEasingCurve": "OutBack"
+          }
+        ]
+      },
+      {
+        "name": "leftMenu",
+        "defaultSize": [
+          {
+            "width": 0,
+            "height": "parent"
+          }
+        ],
+        "collapsedSize": [
+          {
+            "width": 0,
+            "height": "parent"
+          }
+        ],
+        "expandedSize": [
+          {
+            "width": 200,
+            "height": "parent"
+          }
+        ],
+        "toggleButton": [
+          {
+            "buttonName": "menuBtn",
+            "icons": [{
+              "whenMenuIsCollapsed": ":/icons/menu.png",
+              "whenMenuIsExpanded": ":/icons/back.png"
+            }]
+          }
+        ],
+        "menuTransitionAnimation": [
+          {
+            "animationDuration": 200,
+            "animationEasingCurve": "OutBack"
+          }
+        ]
+      },
+      {
+
+		}
+	]
+}
+
+

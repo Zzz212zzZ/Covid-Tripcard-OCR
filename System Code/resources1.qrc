@@ -1,0 +1,36 @@
+<RCC>
+  <qresource>
+    <file>icons/find.png</file>
+    <file>icons/percentage.png</file>
+    <file>icons/statistic.png</file>
+    <file>icons/reset.png</file>
+    <file>icons/clear.png</file>
+    <file>icons/database.png</file>
+    <file>icons/radio_checked.png</file>
+    <file>icons/radio_hover.png</file>
+    <file>icons/radio_uncheck.png</file>
+    <file>icons/doOcr.png</file>
+    <file>icons/color.png</file>
+    <file>icons/day.png</file>
+    <file>icons/pie.png</file>
+    <file>icons/place.png</file>
+    <file>icons/tele.png</file>
+    <file>icons/time.png</file>
+    <file>icons/waitOCR.png</file>
+    <file>icons/open.png</file>
+    <file>icons/bigger.png</file>
+    <file>icons/close.png</file>
+    <file>icons/title.png</file>
+    <file>icons/back.png</file>
+    <file>icons/detect.png</file>
+    <file>icons/exit.png</file>
+    <file>icons/home.png</file>
+    <file>icons/info.png</file>
+    <file>icons/info2.png</file>
+    <file>icons/menu.png</file>
+    <file>icons/ocr.png</file>
+    <file>icons/search.png</file>
+    <file>icons/setting.png</file>
+    <file>icons/user.png</file>
+  </qresource>
+</RCC>
